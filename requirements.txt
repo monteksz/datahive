@@ -1,0 +1,6 @@
+requests
+aiohttp
+urllib3
+py-cpuinfo
+fake-useragent
+colorama
